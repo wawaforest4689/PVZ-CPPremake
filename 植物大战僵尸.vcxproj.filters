@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="zombies.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Players.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cursor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlants.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Pea_shooter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Wall_nut.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bullets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ice_bullets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ice_pea_shooter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Eater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Melon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cards.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Fan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Firepeashooter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Repeater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Threepeater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="zombies.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Players.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cursor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlants.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Pea_shooter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Wall_nut.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bullets.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ice_bullets.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ice_pea_shooter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Eater.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Melon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cards.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Fan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Firepeashooter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Repeater.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Threepeater.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
